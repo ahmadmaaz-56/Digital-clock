@@ -2,11 +2,11 @@
 Digital Clock - A sleek, real-time digital clock with modern UI displaying hours, minutes, and seconds. Features responsive design and smooth time updates for precise timekeeping.
 A modern, responsive digital clock built with HTML, CSS, and JavaScript that displays real-time hours, minutes, and seconds.
  Features
-- ⏰ Real-time time display
-- 📱 Fully responsive design
-- 🎨 Clean, modern interface
-- ⚡ Smooth time updates
-- 🌙 Dark theme aesthetic
+-  Real-time time display
+-  Fully responsive design
+-  Clean, modern interface
+-  Smooth time updates
+-  Dark theme aesthetic
 Technologies Used
 - HTML5
 - CSS3
